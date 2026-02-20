@@ -26,3 +26,8 @@ sudo systemctl disable lsws
 ```
 bt restart
 ```
+aaPanel Internal Address: pa*l.plxbd.baby/admin
+
+username: bbdyeayo
+
+password: 080b4622
